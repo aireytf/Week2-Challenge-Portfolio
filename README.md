@@ -8,9 +8,9 @@ The challenge was to create a site to host my portfolio as a web developer.
 
 As shown in the following Demo screenshot: 
 
-![Demo](/images/Screenshot_1.png)
+![Demo](Week2-Challenge-Portfolio/images/Screenshot_1.png)
 
-![Demo](/images/Screenshot_2.png)
+![Demo](Week2-Challenge-Portfolio/images/Screenshot_2.png)
 
 Required features of the site were as follows:
 When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
