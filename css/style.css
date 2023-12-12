@@ -121,7 +121,7 @@ nav a {
   grid-area: project5;
 }
 
-/*positioning and styling work examples*/
+/*positioning and styling Work examples*/
 .projectarea {
   position: relative;
   margin: 10px;
@@ -139,3 +139,9 @@ nav a {
   object-position: center; 
 }
 
+/* Using :hover selector to style projectarea element*/
+.projectarea:hover {
+  box-shadow: 15px 15px 10px 0px rgba(0, 0, 0, 1);
+  border: 5px solid rgb(74, 65, 132);
+  transition: all 0.5s ease-in-out;
+}
