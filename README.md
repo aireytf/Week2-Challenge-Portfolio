@@ -13,12 +13,12 @@ As per the following screenshots, I was provided with a Demo for a portfolio wit
 ![Demo2](/images/Screenshot2.png)
 
 The required features of the site were as follows:
-When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
-When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
-When viewing the section about your work then the section contains titled images of your applications
-When presented with the your first application then that application's image should be larger in size than the others
-When images of the applications are clicked then the user is taken to that deployed application
-When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport.
+- When the page is loaded the page presents my name, a recent photo or avatar, and links to sections about myself, my work, and how to contact me.
+- When one of the links in the navigation is clicked then the UI scrolls to the corresponding section.
+- When viewing the section about my work then the section contains titled images of my applications.
+- When presented with the first application then that application's image should be larger in size than the others.
+- When images of the applications are clicked then the user is taken to that deployed application.
+- When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to the viewport.
 
 I succeeded in all but the last feature, as I ran out of time to include full and appropriate media qualites to make my site responsive on various screen sizes and devices.
 
