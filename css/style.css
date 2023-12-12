@@ -5,9 +5,43 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
+  background-color: #23325a;
 }
+
+/*adding styling to header elements*/
+header {
+  background-color: #23325a;
+  color: #fff;
+  padding: 20px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/*adding styling to banner*/
+
+
 
 h1,
 h2,

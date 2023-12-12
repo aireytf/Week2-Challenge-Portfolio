@@ -5,39 +5,94 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Lernantino // Web Developer</title>
-  <link rel="stylesheet" href="./assets/css/style.css" />
+  <title>Thomas Airey - Developer Portfolio</title>
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 
 <body>
   <!-- main logo / nav -->
   <header>
-    <h1>Lernantino</h1>
+    <div class="header-content">
+      <div class="header-name">
+       <h1>Thomas F C Airey</h1>
+      </div>
     <nav>
+      <ul>
+        <li><a href="#aboutme">About Me</a></li>
+        <li><a href="#work">Work</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="CV">CV</a></li>
+      </ul>
     </nav>
+    </div>
   </header>
 
   <!-- hero banner -->
   <section class="hero-banner">
     <div>
-      <h2>Cool subtitle here!</h2>
+      <figure class="pic">
+        <img src="images/IDpic.jpg">
+      </figure>
+    </div>
+    <div>
+      <h2>Web Developer</h2>
     </div>
   </section>
 
   <main class="page-wrapper">
     <!-- about me -->
-    <section class="page-section" id="about">
+    <section class="page-section" id="aboutme">
       <h2>About Me</h2>
+      <p>I am currently undertaking a Front-End Wed Development bootcamp, as I make a transition to work in tech.</p>
+      <p>I have seven years' of working experience as a solicitor, which I am sure will stand me in good stead in terms of applying applicable skills such as critical thinking, flexibility and a strong work ethic.</p>
     </section>
 
     <!-- portfolio container -->
     <section class="page-section" id="work">
       <h2>Work</h2>
+      <div class="projects-grid">
+        <div class="projectarea" id="project1">
+            <a href="https://aireytf.github.io/Week1-Challenge-Horiseon/" target="_blank"><img src="./Images/project1.png">
+                <h3>Horiseon Refactor Challenge</h3>
+            </a>
+        </div>
+        
+        <div class="projectarea" id="project2">
+            <a href="https://aireytf.github.io/prework-study-guide/" target="_blank"><img src="Images/project2.png">
+                <h3>Prework Study Guide</h3>
+            </a>
+        </div>
+
+        <div class="projectarea" id="project3"> <!--add link to project-->
+            <a href="https://aireytf.github.io/CSS-Flexbox-JsEatery/" target="_blank"><img src="./Images/JakesEatery.png">   
+                <h3>CSS Flexbox Activity</h3>
+            </a>
+        </div>
+
+        <div class="projectarea" id="project4">
+            <a href="https://aireytf.github.io/CSS-Study-Guide/" target="_blank"><img src="./Images/CSS.png">
+                <h3>CSS Study Guide</h3>
+            </a>
+        </div>
+
+        <div class="projectarea" id="project5">
+            <a href="#" target="_blank"><img src="./Images/placeholder.jpg">
+                <h3>TO FOLLOW</h3>
+            </a>
+        </div>
+      </div>
     </section>
 
     <!-- contact -->
     <section class="page-section contact" id="contact">
       <h2>Contact Me</h2>
+      <div class="contactlinks">
+        <a href="https://github.com/aireytf">GitHub
+        </a>
+        <a href="mailto:aireytf19@gmail.com">Email: aireytf19@gmail.com
+        </a>
+        <a href="https://www.linkedin.com/in/thomas-airey-47113aa0/">LinkedIn</a>
+      </div>
     </section>
   </main>
 </body>
