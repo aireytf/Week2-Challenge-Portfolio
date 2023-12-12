@@ -145,3 +145,16 @@ nav a {
   border: 5px solid rgb(74, 65, 132);
   transition: all 0.5s ease-in-out;
 }
+
+/*styling contact section, using Flexbox to position elements*/
+.contactlinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 17px;
+}
+
+a {
+  text-decoration: none;
+}
