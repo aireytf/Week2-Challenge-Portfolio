@@ -155,6 +155,19 @@ nav a {
   font-size: 17px;
 }
 
+/*adding text-decoration to style links within a elements*/
 a {
   text-decoration: none;
 }
+
+/*adding styling to h3 elements so as to display project titles*/
+h3 {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background-color: #d6f6f7; 
+  padding: 5px; 
+  border: 1.5px solid #000;
+  color: rgb(8, 5, 5);
+}
+
