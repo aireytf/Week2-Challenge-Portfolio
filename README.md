@@ -12,7 +12,6 @@ As per the following screenshots, I was provided with a Demo for a portfolio wit
 
 ![Demo2](/images/Screenshot2.png)
 
-R
 The required features of the site were as follows:
 When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
 When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
@@ -22,6 +21,8 @@ When images of the applications are clicked then the user is taken to that deplo
 When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport.
 
 I succeeded in all but the last feature, as I ran out of time to include full and appropriate media qualites to make my site responsive on various screen sizes and devices.
+
+I have, also, included a CV section in my header (though this was beyond the minimum required features for this challenge. I will include a link to my CV, as I update this portfolio overtime. 
 
 ## Table of Contents 
 
@@ -35,7 +36,7 @@ To view my work on this challenge, you can review the sections of this repositor
 
 ## Credits
 
-I utilised the resources at w3schools.com in the README provided for this challenge, to apply appropriate semantic and logical structure, and to follow accessibility standards for this site. I played with some additional styling elements found on w3schools.com and css-tricks.com 
+I researched some additional styling elements found on w3schools.com and css-tricks.com, such as border-radius to improve appearance of section layout. 
 
 ## License
 
