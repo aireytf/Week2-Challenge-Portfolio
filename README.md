@@ -1,4 +1,4 @@
-# Week2-Challenge-Portfolio
+# Week2 Challenge Portfolio
 
 ## Description
 
