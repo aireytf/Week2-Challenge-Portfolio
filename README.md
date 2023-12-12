@@ -4,7 +4,7 @@
 
 This repository serves to showcase my work in completing the Module 2 Challenge of my edX Bootcamp. 
 
-The challenge was to create a site to host my portfolio as a web developer. 
+The challenge was to create a site to host my portfolio as a web developer, that will eventually be used to showcase my skills and talents to potential employers. 
 
 As per the following screenshots, I was provided with a Demo for a portfolio with an example of the appropriate appearance and functionality for the application. I made adapatations from this to make my own portfolio individual to me: 
 
