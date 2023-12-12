@@ -36,7 +36,7 @@ To view my work on this challenge, you can review the sections of this repositor
 
 ## Credits
 
-I researched some additional styling elements found on w3schools.com and css-tricks.com, such as border-radius to improve appearance of section layout. 
+I researched some additional styling elements, found on w3schools.com and css-tricks.com, such as border-radius to improve the layout appearance. 
 
 ## License
 
