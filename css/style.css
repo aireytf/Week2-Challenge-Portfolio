@@ -10,6 +10,19 @@ body {
   background-color: #23325a;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
 /*adding styling to header elements*/
 header {
   background-color: #23325a;
@@ -39,19 +52,32 @@ nav a {
   color: #fff;
 }
 
-/*adding styling to banner*/
-
-
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 0;
+/*adding styling to ID image*/
+.pic img {
+  top: 8px;
+  position: relative;
+  left: 375px;
+  height: 8%;
+  width: 12%;
+  display: block;
+  margin: auto;
 }
 
-p {
-  margin: 0;
+/*adding styling to hero-banner elements*/
+.hero-banner {
+  background: url("../images/Banner.jpg");
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
+
+.hero-banner div h2 {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 19px;
+  color: rgb(124, 9, 124);
+}
+
+
