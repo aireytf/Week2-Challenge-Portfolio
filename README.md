@@ -28,14 +28,12 @@ When the page is resized or viewed on various screens and devices then the layou
 
 ## Usage
 
-To view my work on this challenge, you can review the sections of this repository and my refactored version of the site which is deployed at https://aireytf.github.io/Week2-Challenge-Portfolio/ 
+To view my work on this challenge, you can review the sections of this repository, and my delpoyed site which is at https://aireytf.github.io/Week2-Challenge-Portfolio/ 
 
 ## Credits
 
-I utilised the resources at w3schools.com in the README provided for this challenge, to apply appropriate semantic and logical structure, and to follow accessibility standards for this site. 
-
-I had difficulty deploying this application, as only this README from my repository was being shown on the live site. I researched the issue on stackoverflow.com and found a solution there that worked, which was to use the deployment option of GitHub Actions in Pages and using Jekyll to change the source for the site from [./] to [./starter/] , to redirect inside the subfolder 'Starter' that I initally pushed to GitHub with the starter code for this challenge. This meant that the index.html inside the 'Starter' folder was being deployed to the site, as needed. 
+I utilised the resources at w3schools.com in the README provided for this challenge, to apply appropriate semantic and logical structure, and to follow accessibility standards for this site. I played with some additional styling elements found on w3schools.com and css-tricks.com 
 
 ## License
 
-As per the contents of this repository, this project is under an MIT license. As I initially created this repository without a license, I took the opportunity to figure out how to add one after a respository has already been created. This was as simple as adding a new file to the repository and selecting a license template (having given the new file the name LICENSE). 
+As per the contents of this repository, this project is under an MIT license.
