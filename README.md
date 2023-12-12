@@ -22,7 +22,7 @@ The required features of the site were as follows:
 
 I succeeded in all but the last feature, as I ran out of time to include full and appropriate media qualites to make my site responsive on various screen sizes and devices.
 
-I have, also, included a CV section in my header (though this was beyond the minimum required features for this challenge. I will include a link to my CV, as I update this portfolio overtime. 
+I have, also, included a CV section in my header (though this was beyond the minimum required features for this challenge). I will include a link to my CV, as I update this portfolio overtime. 
 
 ## Table of Contents 
 
