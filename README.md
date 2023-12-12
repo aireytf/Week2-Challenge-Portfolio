@@ -1,24 +1,28 @@
-# Week2-Challenge-Portfolio
+# Week 2 Challenge Portfolio
 
 ## Description
 
 This repository serves to showcase my work in completing the Module 2 Challenge of my edX Bootcamp. 
 
-The challenge was to create a site to host my portfolio as a web developer. 
+The challenge was to create a site to host my portfolio as a web developer, that will eventually be used to showcase my skills and talents to potential employers. 
 
-As shown in the following Demo screenshot: 
+As per the following screenshots, I was provided with a Demo for a portfolio with an example of the appropriate appearance and functionality for the application. I made adapatations from this to make my own portfolio individual to me: 
 
-![Demo](/images/Screenshot_1.png)
+![Demo1](/images/Screenshot1.png)
 
-![Demo](/images/Screenshot_2.png)
+![Demo2](/images/Screenshot2.png)
 
-Required features of the site were as follows:
-When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
-When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
-When viewing the section about your work then the section contains titled images of your applications
-When presented with the your first application then that application's image should be larger in size than the others
-When images of the applications are clicked then the user is taken to that deployed application
-When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewpor
+The required features of the site were as follows:
+- When the page is loaded the page presents my name, a recent photo or avatar, and links to sections about myself, my work, and how to contact me.
+- When one of the links in the navigation is clicked then the UI scrolls to the corresponding section.
+- When viewing the section about my work then the section contains titled images of my applications.
+- When presented with the first application then that application's image should be larger in size than the others.
+- When images of the applications are clicked then the user is taken to that deployed application.
+- When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to the viewport.
+
+I succeeded in all but the last feature, as I ran out of time to include full and appropriate media qualites to make my site responsive on various screen sizes and devices.
+
+I have, also, included a CV section in my header (though this was beyond the minimum required features for this challenge). I will include a link to my CV, as I update this portfolio overtime. 
 
 ## Table of Contents 
 
@@ -28,14 +32,12 @@ When the page is resized or viewed on various screens and devices then the layou
 
 ## Usage
 
-To view my work on this challenge, you can review the sections of this repository and my refactored version of the site which is deployed at https://aireytf.github.io/Week2-Challenge-Portfolio/ 
+To view my work on this challenge, you can review the sections of this repository, and my delpoyed site which is at https://aireytf.github.io/Week2-Challenge-Portfolio/ 
 
 ## Credits
 
-I utilised the resources at w3schools.com in the README provided for this challenge, to apply appropriate semantic and logical structure, and to follow accessibility standards for this site. 
-
-I had difficulty deploying this application, as only this README from my repository was being shown on the live site. I researched the issue on stackoverflow.com and found a solution there that worked, which was to use the deployment option of GitHub Actions in Pages and using Jekyll to change the source for the site from [./] to [./starter/] , to redirect inside the subfolder 'Starter' that I initally pushed to GitHub with the starter code for this challenge. This meant that the index.html inside the 'Starter' folder was being deployed to the site, as needed. 
+I researched some additional styling elements, found on w3schools.com and css-tricks.com, such as border-radius to improve the layout appearance. 
 
 ## License
 
-As per the contents of this repository, this project is under an MIT license. As I initially created this repository without a license, I took the opportunity to figure out how to add one after a respository has already been created. This was as simple as adding a new file to the repository and selecting a license template (having given the new file the name LICENSE). 
+As per the contents of this repository, this project is under an MIT license.
