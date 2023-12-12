@@ -80,4 +80,44 @@ nav a {
   color: rgb(124, 9, 124);
 }
 
+/*adding styling for page sections*/
+.page-section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #c1c8db;
+  border-radius: 5px; /*to curve edges of section boxes*/
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/*adding grid pattern with relevant references to project IDs*/
+.projects-grid {
+  margin: 0px 5%;
+  display: grid;
+  grid-template-rows: 300px 300px 300px;
+  grid-template-areas: 
+  'project1 project1'
+  'project2 project3'
+  'project4 project5';
+}
+
+#project1 {
+  grid-area: project1;
+}
+
+#project2 {
+  grid-area: project2;
+}
+
+#project3 {
+  grid-area: project3;
+}
+
+#project4 {
+  grid-area: project4;
+}
+
+#project5 {
+  grid-area: project5;
+}
 
